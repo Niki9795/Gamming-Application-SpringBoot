@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.spring.example.first-spring-project' is invalid and this project uses 'com.spring.example.first_spring_project' instead.
+* The original package name 'com.spring.example.first-spring-project' is invalid and this project uses 'com.spring.example.spring_project' instead.
 
 # Getting Started
 

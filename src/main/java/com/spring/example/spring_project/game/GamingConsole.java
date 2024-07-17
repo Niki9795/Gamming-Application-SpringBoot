@@ -1,4 +1,4 @@
-package com.spring.example.first_spring_project.game;
+package com.spring.example.spring_project.game;
 
 public interface GamingConsole {
 
