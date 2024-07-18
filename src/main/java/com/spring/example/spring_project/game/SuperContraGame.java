@@ -1,5 +1,8 @@
 package com.spring.example.spring_project.game;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class SuperContraGame implements GamingConsole{
 
     @Override
