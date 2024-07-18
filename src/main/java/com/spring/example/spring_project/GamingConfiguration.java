@@ -11,7 +11,11 @@ public class GamingConfiguration {
 
     @Bean
     public GamingConsole game() {
-        var game = new PacmanGame();
-        return game;
+        return new PacmanGame();
+    }
+
+    @Bean
+    public GameRunner gameRunner(GamingConsole game) {
+        return new GameRunner(game);
     }
 }
